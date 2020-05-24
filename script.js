@@ -66,6 +66,5 @@ function increaseCount(currentNos, nextNos, index) {
         if(next.innerText > 9) {
             next.innerText = 0;
         }
-    }, 500);
-    
+    }, 500);   
 }
