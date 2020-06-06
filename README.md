@@ -1,2 +1,2 @@
 # UpCounter
-A counter 
+A  Simple counter 
